@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FriendsFoto</string>
+
+    <!-- main screen-->
+
+    <string name="main_btn_login">Login</string>
+
+    <!-- ********** -->
+
+
+    <!-- friends list -->
+
+    <string name="friend_status_online">online</string>
+    <string name="friend_status_offline">offline</string>
+
+    <!-- ********** -->
+
+</resources>
